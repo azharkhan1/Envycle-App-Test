@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Envycle-App-Test/static/css/main.27ee471e.chunk.css",
+    "main.js": "/Envycle-App-Test/static/js/main.2154f0c9.chunk.js",
+    "main.js.map": "/Envycle-App-Test/static/js/main.2154f0c9.chunk.js.map",
+    "runtime-main.js": "/Envycle-App-Test/static/js/runtime-main.eafade27.js",
+    "runtime-main.js.map": "/Envycle-App-Test/static/js/runtime-main.eafade27.js.map",
+    "static/js/2.c7c5e13b.chunk.js": "/Envycle-App-Test/static/js/2.c7c5e13b.chunk.js",
+    "static/js/2.c7c5e13b.chunk.js.map": "/Envycle-App-Test/static/js/2.c7c5e13b.chunk.js.map",
+    "index.html": "/Envycle-App-Test/index.html",
+    "static/css/main.27ee471e.chunk.css.map": "/Envycle-App-Test/static/css/main.27ee471e.chunk.css.map",
+    "static/js/2.c7c5e13b.chunk.js.LICENSE.txt": "/Envycle-App-Test/static/js/2.c7c5e13b.chunk.js.LICENSE.txt",
+    "static/media/cm-main-img.b9a05542.png": "/Envycle-App-Test/static/media/cm-main-img.b9a05542.png",
+    "static/media/font-awesome.min.css": "/Envycle-App-Test/static/media/fontawesome-webfontd41d.8b43027f.eot",
+    "static/media/home-6.ccc89a3d.jpg": "/Envycle-App-Test/static/media/home-6.ccc89a3d.jpg",
+    "static/media/line-awesome-font-awesome.min.css": "/Envycle-App-Test/static/media/line-awesomeeb4f.9548158a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eafade27.js",
+    "static/js/2.c7c5e13b.chunk.js",
+    "static/css/main.27ee471e.chunk.css",
+    "static/js/main.2154f0c9.chunk.js"
+  ]
+}
